@@ -1,0 +1,13 @@
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/service/impl/TraderServiceImpl.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/repository/TraderRepository.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/dto/UpdateTraderDTO.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/exception/GlobalExceptionHandler.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/exception/TraderAlreadyExistsException.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/exception/ErrorResponse.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/dto/TraderDTO.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/exception/TraderNotFoundException.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/controller/TraderController.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/dto/AddMoneyTraderDTO.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/TradingPlatformApplication.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/model/Trader.java
+/workspaces/trading-platform-backend/trading-platform/src/main/java/com/hackerrank/tradingplatform/service/TraderService.java
