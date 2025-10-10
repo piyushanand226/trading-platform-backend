@@ -1,6 +1,8 @@
 package com.hackerrank.tradingplatform.dto;
 
-import javax.validation.constraints.*;
+import jakarta.validation.constraints.DecimalMin;
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
 
 public class AddMoneyTraderDTO {
 
